@@ -1,0 +1,214 @@
+body{background-color:#585761;
+}
+/* _____________________________________________________________________________ */
+div.one{
+    width: 276px;
+    height: 460px;
+    background-color:#ffffffc9;
+    position: relative;
+    left: 40%;
+    top: 20px;
+    border-radius: 10px;
+    font-family: cursive;
+}
+div.two{
+    width: 256px;
+    height: 438px;
+    background-color:#460202d9;
+    position: relative;
+    left: 277px;
+    bottom: 379px;
+    border-radius: 10px;
+}
+div.three{
+    width: 240px;
+    height: 410px;
+    background-color:#000000c9;
+    position: relative;
+    left: 809px;
+    bottom: 818px;
+    border-radius: 10px;   
+}
+/* _____________________________________________________________________________ */
+b{
+    font-size: 27px;
+    position: absolute;
+    left: 52px;
+    top : 38px;
+    color: rgb(0, 0, 0);
+}
+b.b2{
+    font-size: 27px;
+    position: absolute;
+    left: 52px;
+    top : 38px;
+    color: rgb(255, 255, 255);
+}
+b.b3{
+    font-size: 27px;
+    position: absolute;
+    left: 52px;
+    top : 38px;
+    color: rgb(255, 255, 255);
+}
+/* _____________________________________________________________________________ */
+p.p1{
+    font-size: 70px;
+    position: absolute;
+    top: 43px;
+    left: 25px;
+    color: rgb(0, 0, 0);
+}
+p.p12{
+    font-size: 70px;
+    position: absolute;
+    top: 43px;
+    left: 35px;
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+}
+p.p13{
+    font-size: 70px;
+    position: absolute;
+    top: 43px;
+    left: 35px;
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+}
+/* _____________________________________________________________________________ */
+hr.h1{
+    color: black;
+    position: relative;
+    top: 189px;
+    width: 177px;
+    border-style: solid;
+}
+hr.h12{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 189px;
+    width: 177px;
+    border-style: solid;
+}
+hr.h13{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 189px;
+    width: 177px;
+    border-style: solid;
+}
+/* _____________________________________________________________________________ */
+p.p2{
+        font-size: 23px;
+    position: absolute;
+    top: 213px;
+    left: 81px;
+    color: rgb(0, 0, 0);
+}
+p.p22{
+    font-size: 23px;
+position: absolute;
+top: 213px;
+left: 81px;
+color: rgb(255, 255, 255);
+}
+p.p23{
+    font-size: 23px;
+position: absolute;
+top: 213px;
+left: 81px;
+color: rgb(255, 255, 255);
+}
+/* _____________________________________________________________________________ */
+hr.h2{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 245px;
+    width: 177px;
+    border-style: solid;
+}
+hr.h22{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 245px;
+    width: 177px;
+    border-style: solid;
+}
+hr.h23{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 245px;
+    width: 177px;
+    border-style: solid;
+}
+/* _____________________________________________________________________________ */
+p.p3{
+    font-size: 23px;
+    position: absolute;
+    top: 277px;
+    left: 66px;
+    color: rgb(0, 0, 0);
+}
+p.p32{
+    font-size: 23px;
+    position: absolute;
+    top: 277px;
+    left: 66px;
+    color: rgb(255, 255, 255);
+}
+p.p33{
+    font-size: 23px;
+    position: absolute;
+    top: 277px;
+    left: 66px;
+    color: rgb(255, 255, 255);
+}
+/* _____________________________________________________________________________ */
+hr.h3{
+    color: black;
+    position: relative;
+    top: 276px;
+    width: 177px;
+    border-style: solid;
+}
+hr.h32{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 276px;
+    width: 177px;
+    border-style: solid;
+}
+hr.h33{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 276px;
+    width: 177px;
+    border-style: solid;
+}
+/* _____________________________________________________________________________ */
+p.p4{
+    font-size: 23px;
+    position: absolute;
+    top: 351px;
+    left: 48px;
+    color: rgb(0, 0, 0);
+
+}
+p.p42{
+    font-size: 23px;
+    position: absolute;
+    top: 351px;
+    left: 48px;
+    color: rgb(255, 255, 255);
+}
+p.p43{
+    font-size: 23px;
+    position: absolute;
+    top: 351px;
+    left: 48px;
+    color: rgb(255, 255, 255);
+}
+/* _____________________________________________________________________________ */
+input{
+    background-color: darkgreen;
+}
